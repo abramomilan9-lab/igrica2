@@ -1,0 +1,3 @@
+C:\Users\Ucenik-IK4-12\Documents\Visual Studio\WindowsFormsApplication9\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication7.Form1.resources
+C:\Users\Ucenik-IK4-12\Documents\Visual Studio\WindowsFormsApplication9\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.Properties.Resources.resources
+C:\Users\Ucenik-IK4-12\Documents\Visual Studio\WindowsFormsApplication9\WindowsFormsApplication9\obj\x86\Debug\WindowsFormsApplication9.csproj.GenerateResource.Cache
